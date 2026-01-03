@@ -1,0 +1,5 @@
+{
+  "name": "Vattnets Densitet-Simulator",
+  "description": "En interaktiv pedagogisk applikation som förklarar vattnets unika densitetsegenskaper vid 4°C och jämför dem med andra ämnen.",
+  "requestFramePermissions": []
+}
